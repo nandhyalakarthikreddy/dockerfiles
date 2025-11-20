@@ -1,4 +1,4 @@
 FROM almalinux:9
 ENV course="docker" \
-    trainer = "karthik" \
-    duration = "30hours"
+    trainer="karthik" \
+    duration="30hours"
